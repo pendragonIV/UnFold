@@ -1,0 +1,201 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c0a8f2ac38039042a661c9ffb343aeb, type: 3}
+  m_Name: LevelData
+  m_EditorClassIdentifier: 
+  levels:
+  - map: {fileID: 3087749330347951979, guid: f0ba863d31d449040af1f48709572c24, type: 3}
+    cookies:
+    - type: 0
+      cellPos: {x: 0, y: -2, z: 0}
+    - type: 0
+      cellPos: {x: -1, y: -2, z: 0}
+    isCompleted: 0
+    isPlayable: 1
+  - map: {fileID: 201633226398353041, guid: aca49ba77a7fbdf41a3d6f1514aad02b, type: 3}
+    cookies:
+    - type: 0
+      cellPos: {x: -3, y: 2, z: 0}
+    - type: 1
+      cellPos: {x: -3, y: -3, z: 0}
+    - type: 2
+      cellPos: {x: 1, y: -3, z: 0}
+    - type: 3
+      cellPos: {x: 1, y: 2, z: 0}
+    isCompleted: 0
+    isPlayable: 0
+  - map: {fileID: 2140832416725449561, guid: 05e246f4af8a75c4b8c96810b6987f8d, type: 3}
+    cookies:
+    - type: 0
+      cellPos: {x: -2, y: 3, z: 0}
+    - type: 0
+      cellPos: {x: -1, y: 2, z: 0}
+    - type: 1
+      cellPos: {x: -3, y: 0, z: 0}
+    - type: 1
+      cellPos: {x: -4, y: -1, z: 0}
+    - type: 1
+      cellPos: {x: 2, y: 0, z: 0}
+    - type: 1
+      cellPos: {x: 3, y: -1, z: 0}
+    - type: 1
+      cellPos: {x: 1, y: -1, z: 0}
+    - type: 1
+      cellPos: {x: 0, y: 0, z: 0}
+    - type: 1
+      cellPos: {x: 0, y: 1, z: 0}
+    - type: 1
+      cellPos: {x: 1, y: 1, z: 0}
+    - type: 1
+      cellPos: {x: 2, y: -4, z: 0}
+    - type: 1
+      cellPos: {x: 1, y: -3, z: 0}
+    isCompleted: 0
+    isPlayable: 0
+  - map: {fileID: 5352793056293071813, guid: 790bc715de2c3814bbcb7605070d1780, type: 3}
+    cookies:
+    - type: 2
+      cellPos: {x: -4, y: 2, z: 0}
+    - type: 2
+      cellPos: {x: -2, y: 2, z: 0}
+    - type: 2
+      cellPos: {x: -3, y: 1, z: 0}
+    - type: 2
+      cellPos: {x: -4, y: 0, z: 0}
+    - type: 2
+      cellPos: {x: -2, y: 0, z: 0}
+    - type: 2
+      cellPos: {x: -3, y: -1, z: 0}
+    - type: 2
+      cellPos: {x: -4, y: -2, z: 0}
+    - type: 2
+      cellPos: {x: -1, y: -2, z: 0}
+    isCompleted: 0
+    isPlayable: 0
+  - map: {fileID: 1932944698237454725, guid: 47bb6839106b6e64a95008b50711f69b, type: 3}
+    cookies:
+    - type: 3
+      cellPos: {x: -3, y: -1, z: 0}
+    - type: 3
+      cellPos: {x: -2, y: -3, z: 0}
+    - type: 3
+      cellPos: {x: 0, y: -2, z: 0}
+    - type: 1
+      cellPos: {x: 3, y: 0, z: 0}
+    - type: 1
+      cellPos: {x: 1, y: 2, z: 0}
+    isCompleted: 0
+    isPlayable: 0
+  - map: {fileID: 6044977794901420058, guid: cf82c35bbd884af47a7e7fa95863ccf0, type: 3}
+    cookies:
+    - type: 1
+      cellPos: {x: -3, y: 3, z: 0}
+    - type: 1
+      cellPos: {x: 2, y: 3, z: 0}
+    - type: 1
+      cellPos: {x: -3, y: 1, z: 0}
+    - type: 1
+      cellPos: {x: -1, y: 1, z: 0}
+    - type: 1
+      cellPos: {x: -1, y: 2, z: 0}
+    - type: 1
+      cellPos: {x: -1, y: -1, z: 0}
+    - type: 1
+      cellPos: {x: -2, y: -2, z: 0}
+    - type: 1
+      cellPos: {x: -3, y: -2, z: 0}
+    - type: 1
+      cellPos: {x: -4, y: -3, z: 0}
+    - type: 1
+      cellPos: {x: 3, y: -3, z: 0}
+    - type: 2
+      cellPos: {x: -4, y: 0, z: 0}
+    - type: 2
+      cellPos: {x: 3, y: 0, z: 0}
+    - type: 3
+      cellPos: {x: -2, y: -3, z: 0}
+    - type: 3
+      cellPos: {x: 1, y: -3, z: 0}
+    isCompleted: 0
+    isPlayable: 0
+  - map: {fileID: 8141006814220061430, guid: ed2b86d7b9813d849878ca054f04819b, type: 3}
+    cookies:
+    - type: 0
+      cellPos: {x: -2, y: 3, z: 0}
+    - type: 0
+      cellPos: {x: -3, y: 2, z: 0}
+    - type: 1
+      cellPos: {x: -2, y: 1, z: 0}
+    - type: 1
+      cellPos: {x: -1, y: 0, z: 0}
+    - type: 2
+      cellPos: {x: -1, y: 3, z: 0}
+    - type: 2
+      cellPos: {x: 1, y: 2, z: 0}
+    - type: 2
+      cellPos: {x: 3, y: 1, z: 0}
+    - type: 3
+      cellPos: {x: 1, y: 3, z: 0}
+    - type: 3
+      cellPos: {x: 3, y: 2, z: 0}
+    - type: 3
+      cellPos: {x: 3, y: -3, z: 0}
+    - type: 3
+      cellPos: {x: 1, y: -4, z: 0}
+    isCompleted: 0
+    isPlayable: 0
+  - map: {fileID: 3639287751593632555, guid: c6f6c1b993f70a046810836908d929bf, type: 3}
+    cookies:
+    - type: 1
+      cellPos: {x: -1, y: 3, z: 0}
+    - type: 1
+      cellPos: {x: -3, y: 2, z: 0}
+    - type: 1
+      cellPos: {x: -4, y: 1, z: 0}
+    - type: 1
+      cellPos: {x: -4, y: 0, z: 0}
+    - type: 1
+      cellPos: {x: -3, y: -1, z: 0}
+    - type: 1
+      cellPos: {x: -1, y: -1, z: 0}
+    - type: 2
+      cellPos: {x: -4, y: -2, z: 0}
+    - type: 2
+      cellPos: {x: -3, y: -3, z: 0}
+    - type: 2
+      cellPos: {x: -1, y: -4, z: 0}
+    - type: 2
+      cellPos: {x: -1, y: -2, z: 0}
+    - type: 3
+      cellPos: {x: -1, y: 2, z: 0}
+    - type: 3
+      cellPos: {x: -2, y: 0, z: 0}
+    isCompleted: 0
+    isPlayable: 0
+  - map: {fileID: 3493697495614825687, guid: 12748dc5e6d115545857ec8c0258078c, type: 3}
+    cookies:
+    - type: 1
+      cellPos: {x: -3, y: 3, z: 0}
+    - type: 1
+      cellPos: {x: -1, y: 2, z: 0}
+    - type: 1
+      cellPos: {x: -2, y: 0, z: 0}
+    - type: 1
+      cellPos: {x: -4, y: -1, z: 0}
+    - type: 1
+      cellPos: {x: -3, y: -4, z: 0}
+    - type: 2
+      cellPos: {x: -2, y: -3, z: 0}
+    - type: 2
+      cellPos: {x: -1, y: -4, z: 0}
+    isCompleted: 0
+    isPlayable: 0
